@@ -10,3 +10,8 @@ Sort the table by at least one category
 
 Filter the users by at least one property.
 
+![](office.gif)
+
+Link to Deployed Heroku App
+
+https://employee-directory-scranton-pa.herokuapp.com/
