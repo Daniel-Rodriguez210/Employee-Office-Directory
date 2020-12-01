@@ -3,96 +3,112 @@
     "id": 1,
     "name": "Michael Scott",
     "image":"https://img1.looper.com/img/gallery/michael-scott-moments-that-made-us-cringe/intro-1562178435.jpg",
-    "occupation": "Regional Manager"
+    "occupation": "Regional Manager",
+    "department": "Others"
   },
   {
     "id": 2,
     "name": "Dwight Schrute",
     "image":"https://static2.srcdn.com/wordpress/wp-content/uploads/2020/01/dwight-schrute-office-featured.jpg",
-    "occupation": "Assistant to the Regional Manager"
+    "occupation": "Assistant to the Regional Manager",
+    "department": "Sales"
   },
   {
     "id": 3,
     "name": "Jim Halpert",
     "image":"https://i.pinimg.com/originals/4d/91/41/4d91415c47c22ef283bdcb4091c83d34.png",
-    "occupation": "Salesman"
+    "occupation": "Salesman",
+    "department": "Sales"
   },
   {
     "id": 4,
     "name": "Pam Beesly",
     "image":"https://i.pinimg.com/736x/bf/68/d8/bf68d81d964dbd8a51ce740d0c618041.jpg",
-    "occupation": "Office Manager"
+    "occupation": "Office Manager",
+    "department": "Others"
   },
   {
     "id": 5,
     "name": "Ryan Howard",
     "image":"https://img1.looper.com/img/gallery/whatever-happened-to-b-j-novak/intro-1561637842.jpg",
-    "occupation": "Temp"
+    "occupation": "Temp",
+    "department": "Others"
   },
   {
     "id": 6,
     "name": "Andy Bernard",
     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq4nC2tYWg5VRs6pxEO1KeBMTyEabim1jO_w&usqp=CAU",
-    "occupation": "Salesman"
+    "occupation": "Salesman",
+    "department": "Sales"
   },
   {
     "id": 7,
     "name": "Toby Flenderson",
     "image":"https://www.cheatsheet.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-14-at-11.08.55-AM.png",
-    "occupation": "Human Resources"
+    "occupation": "Human Resources",
+    "department": "Others"
   },
   {
     "id": 8,
     "name": "Angela Martin",
     "image":"https://static.onecms.io/wp-content/uploads/sites/13/2016/09/26/angelaoffice2.jpg",
-    "occupation": "Accountant"
+    "occupation": "Accountant",
+    "department": "Accountants"
   },
   {
     "id": 9,
     "name": "Kelly Kapoor",
     "image":"https://img.resized.co/entertainment/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvZW50ZXJ0YWlubWVudGllXFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wMVxcXC8yNDExMDIyNVxcXC9LZWxseS1LYXBvb3IuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MzAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL2VudGVydGFpbm1lbnQuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wifSIsImhhc2giOiI0OTU1ZDQ5MzdkYzcxMTQyZWU2NzUzYWYzMjkxODlkNzQ1N2Q4ZjM0In0=/what-happened-to-kelly-kapoor-when-the-us-office-ended-mindy-kaling-says-she-s-in-jail.jpg",
-    "occupation": "Customer Service"
+    "occupation": "Customer Service",
+    "department": "Customer Service"
   },
   {
     "id": 10,
     "name": "Kevin Malone",
     "image":"https://i0.wp.com/devsari.com/wp-content/uploads/2020/08/Brian-Baumgartner-as-Kevin-Malone-in-The-Office-Dwight-stands-up-for-Kevin.jpg?fit=740%2C370&ssl=1",
-    "occupation": "Accountant"
+    "occupation": "Accountant",
+    "department": "Accountants"
   },
   {
     "id": 11,
     "name": "Darryl Philbin",
     "image":"https://img1.looper.com/img/gallery/what-craig-robinson-has-been-doing-since-playing-darryl-on-the-office/intro-1574368248.jpg",
-    "occupation": "Warehouse Manager"
+    "occupation": "Warehouse Manager",
+    "department": "Others"
   },
   {
     "id": 12,
     "name": "Creed Bratton",
     "image":"https://3.bp.blogspot.com/-AitNq4C5eDA/VQXCbu-j4_I/AAAAAAAACXM/BzkqmZ_Uzrg/s1600/creed%2Bbratton%2Brandom%2Bquote%2Bgenerator.jpg",
-    "occupation": "Quality Assurance"
+    "occupation": "Quality Assurance",
+    "department": "Others"
   },
   {
     "id": 13,
     "name": "Meredith Palmer",
     "image":"https://img1.looper.com/img/uploads/2018/05/Meredith-The-Office.jpg",
-    "occupation": "Supplier Relations"
+    "occupation": "Supplier Relations",
+    "department": "Customer Service"
   },
   {
     "id": 14,
     "name": "Oscar Martinez",
     "image":"https://tvserieswelove.com/wp-content/uploads/2019/11/oscar.png",
-    "occupation": "Accountant"
+    "occupation": "Accountant",
+    "department": "Accountants"
   },
   {
     "id": 15,
     "name": "Phyllis Vance",
     "image":"https://static3.srcdn.com/wordpress/wp-content/uploads/2019/11/Phyllis-Lapin-Vance.jpg",
-    "occupation": "Salesman"
+    "occupation": "Salesman",
+    "department": "Sales"
   },
   {
     "id": 16,
     "name": "Stanley Hudson",
     "image":"https://wsbt.com/resources/media/a635a1b6-4cc4-425b-b686-67fa860f9ed8-large16x9_stanleyhudsonNBC.PNG?1550090897080",
-    "occupation": "Salesman"
+    "occupation": "Salesman",
+    "department": "Sales"
   }
 ]
