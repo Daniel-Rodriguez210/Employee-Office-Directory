@@ -1,21 +1,15 @@
 import React from "react";
 import "./style.css";
 
-function EmployeeCard(props) {
+function EmployeeCard({ name, image, occupation }) {
   return (
     <div className="card">
       <div className="img-container">
-        <img alt={props.name} src={props.image} />
+        <img alt="employee" src={image} />
       </div>
       <div className="content">
-        <ul>
-          <li>
-            <strong>Name:</strong> {props.name}
-          </li>
-          <li>
-            <strong>Occupation:</strong> {props.occupation}
-          </li>
-        </ul>
+        <p>{name}</p>
+        <p>{occupation}</p>
       </div>
     </div>
   );
