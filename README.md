@@ -1,17 +1,43 @@
-# Employee-Office-Directory
+# Office Directory
 
-As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
+# Application Does:
+* This is a sortable directory of all the characters on the hit tv show "The Office". Ability to sort characters by name. 
 
-An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
+# Technologies used:
+* React
+* CSS , Bootstrap
+* HTML
+* JavaScript
 
-The user should be able to:
 
-Sort the table by at least one category
+# Features
+* React Cards For Each Employee
+* Sortable Employees By Name
 
-Filter the users by at least one property.
 
+
+
+
+
+# Sample web page
 ![](office.gif)
 
-Link to Deployed Heroku App
 
+
+ 
+ 
+# Heroku
 https://employee-directory-scranton-pa.herokuapp.com/
+
+
+
+# Github repository
+ https://github.com/Daniel-Rodriguez210/Employee-Office-Directory
+
+
+
+# Contributing
+  *drod18@hotmail.com
+    
+
+@copyright 2020
